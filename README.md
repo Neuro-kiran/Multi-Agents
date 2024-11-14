@@ -1,6 +1,6 @@
-# AI Agents from Scratch
+# AI Agents
 
-![AI Agents from Scratch](logo.png)
+![AI Agents](logo.png)
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@
 
 ## Overview
 
-The **Multi-Agents AI System from Scratch** is a Python-based application leveraging OpenAI's GPT-4o model to perform specialized tasks through a collaborative multi-agent architecture. Built with Streamlit for an intuitive web interface without any Agents frameworks/libraries, this system includes agents for summarizing medical texts, writing research articles, and sanitizing medical data (Protected Health Information - PHI). Each primary agent is paired with a corresponding validator agent to ensure the quality and accuracy of the outputs. Built it for beginners so they can understand that Agents can be built without orchestration frameworks like Crew AI, AutoGen, LangGraph, etc.
+The **Multi-Agents AI System** is a Python-based application leveraging OpenAI's GPT-4o model to perform specialized tasks through a collaborative multi-agent architecture. Built with Streamlit for an intuitive web interface without any Agents frameworks/libraries, this system includes agents for summarizing medical texts, writing research articles, and sanitizing medical data (Protected Health Information - PHI). Each primary agent is paired with a corresponding validator agent to ensure the quality and accuracy of the outputs. Built it for beginners so they can understand that Agents can be built without orchestration frameworks like Crew AI, AutoGen, LangGraph, etc.
 
 ## Features
 
@@ -238,9 +238,6 @@ Contributions are welcome! Please follow these steps:
 
 5. **Open a Pull Request**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
